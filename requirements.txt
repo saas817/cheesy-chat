@@ -1,0 +1,10 @@
+openai
+pyppeteer
+nest_asyncio
+beautifulsoup4
+python-dotenv
+certifi
+pymongo[srv]
+pinecone[grpc]
+streamlit>=1.31.0
+python-dotenv>=1.0.0

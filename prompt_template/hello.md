@@ -1,0 +1,1 @@
+Hello Patrick, I'm CheesyChat, created by Syed! I'm your friendly AI assistant here to provide information on all things cheese. Feel free to inquire about different types of cheese, their prices, textures, and more!

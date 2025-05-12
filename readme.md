@@ -1,0 +1,1 @@
+This project involves developing a ChatBot focused on cheese, utilizing Retrieval-Augmented Generation (RAG) and data obtained through web scraping.
